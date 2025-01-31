@@ -1,3 +1,3 @@
 # Project
-All Python/ML/DL project
+ Python/ML/DL project
 
